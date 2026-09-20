@@ -1,0 +1,15 @@
+{
+  "nota": "Nota: Vigencia verificada el AAAA-MM-DD (busqueda web dirigida: LinkedIn, elempleo.com, Get on Board). Filtro aplicado: solo ofertas junior / entry-level / practicante, acorde al nivel de experiencia real del candidato. Verificar vigencia de cada oferta antes de aplicar, ya que las publicaciones pueden expirar.",
+  "ofertas": [
+    {
+      "puesto": "Junior AI & Product Enablement Specialist",
+      "empresa": "Empresa de ejemplo",
+      "categoria": "IA / Automatizacion",
+      "nivel": "Entry-level (sin experiencia previa requerida)",
+      "ubicacion": "San Jose, Costa Rica",
+      "descripcion": "Descripcion breve de responsabilidades y requisitos clave.",
+      "fuente": "LinkedIn",
+      "url": "https://ejemplo.com/oferta-de-muestra"
+    }
+  ]
+}

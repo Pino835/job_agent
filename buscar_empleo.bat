@@ -1,0 +1,3 @@
+@echo off
+cd /d "%~dp0"
+claude "Ejecuta el agente de busqueda de empleo: lee el CV en formato PDF que se encuentre dentro de la carpeta cv/ (usa el primero que encuentres si hay varios) para extraer el perfil del candidato (roles, skills, experiencia, nivel de seniority). Busca ofertas actuales en LinkedIn, elempleo.com y otros portales relevantes segun ese perfil, priorizando puestos acordes al nivel de experiencia real indicado en el CV (nunca puestos senior si el CV muestra poca experiencia). Guarda los resultados en ofertas.json siguiendo el formato de ofertas.ejemplo.json, y luego ejecuta 'py build_excel.py' para generar Busqueda_Empleo.xlsx."

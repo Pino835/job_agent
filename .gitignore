@@ -1,0 +1,12 @@
+# Datos personales / especificos del candidato -- nunca subir
+cv/*.pdf
+ofertas.json
+Busqueda_Empleo.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+.venv/
+venv/
